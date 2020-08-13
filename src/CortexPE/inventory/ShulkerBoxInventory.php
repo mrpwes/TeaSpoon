@@ -59,7 +59,7 @@ class ShulkerBoxInventory extends ContainerInventory {
 	}
 
 	public function getDefaultSize(): int{
-		return 27;
+		return 8;
 	}
 
 	public function getNetworkType(): int{
